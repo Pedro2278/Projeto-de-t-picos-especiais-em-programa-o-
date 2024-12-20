@@ -29,10 +29,15 @@ Certifique-se de ter os seguintes softwares instalados na sua máquina:
 
 ### Passos para execução
 
-1. **Clone o repositório:**
+### Passos para execução
+
+1. **Descompacte o arquivo zipado:**
+
+   O projeto está compactado em um arquivo `.zip`. Extraia o conteúdo em uma pasta de sua preferência antes de continuar.
+
+2. **Acesse a pasta do projeto:**
 
    ```bash
-   git clone https://github.com/seuusuario/escola_app.git
    cd escola_app
    
 Instale as dependências do projeto:
